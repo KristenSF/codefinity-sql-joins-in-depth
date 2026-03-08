@@ -1,4 +1,4 @@
-SELECT
+SELECT DISTINCT
     customers.name 
     
 FROM
